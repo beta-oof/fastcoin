@@ -1,0 +1,2 @@
+# fastcoin
+Source for fastcoin
